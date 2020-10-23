@@ -1,0 +1,4 @@
+com/blogcrawler/domain/Blog.class
+com/blogcrawler/domain/BlogRepository.class
+com/blogcrawler/AggregatorApplication.class
+com/blogcrawler/controllers/BlogController.class
